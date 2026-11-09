@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Exploring+the+Cloud+%E2%98%81%EF%B8%8F;Learning+AWS+%7C+Azure+%7C+DevOps;Building+Scalable+Cloud+Solutions;Automating+the+Future+with+Technology" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="Coding animation">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJ5NmFwOXBpeDZ5ODVlZ2p1ZzlueHE4aW4wbW03M20xbzU4bGY5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m49F3g7dMiJfQH2rpK/giphy.gif" width="350" alt="Coding animation">
 
 </div>
 
@@ -56,11 +56,11 @@ I'm passionate about technology, cloud computing, and building solutions that ma
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anodyne-eng&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anodyne-eng&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anodyne-eng&theme=tokyonight&hide_border=true"/>
 
 </div>
 
